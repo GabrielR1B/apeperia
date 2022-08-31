@@ -45,4 +45,7 @@
         border-top: 1px solid var(--cinza-medio);
         padding:1rem;
     }
+    .sobre__conteudo {
+        padding-right: 4em;
+    }
 }
